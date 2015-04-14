@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcddda24-d87a-4ab4-b0f0-4bfe7ed9ebc4" name="Default" comment="First Commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/Ajex.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/AllMethodPom-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/Assert.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/DataRead.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/DataRead1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/DropDown.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/DropDown.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/Excel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/HandelWiondows.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/HoverMouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/IFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/Im.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/LinkList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/ReadData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/ScreenShort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Method/Video.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/Ajex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/Assert.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/DataRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/DataRead1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/DropDown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/Excel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/Grid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/HandelWiondows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/HoverMouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/IFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/Im.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/JDBC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/LinkList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/ReadData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/ScreenShort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Method/Video.java" />
       <change type="DELETED" beforePath="$USER_HOME$/Documents/workspace/Data_Reader/.classpath" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Documents/workspace/Data_Reader/.project" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Documents/workspace/Data_Reader/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
@@ -174,6 +167,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AmazonSaucelabs/AmazonTest/target/surefire-reports/old/Amazon company/testng.xml.html" afterPath="$PROJECT_DIR$/../AmazonSaucelabs/AmazonTest/target/surefire-reports/old/Amazon company/testng.xml.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AmazonSaucelabs/AmazonTest/target/surefire-reports/old/Amazon company/toc.html" afterPath="$PROJECT_DIR$/../AmazonSaucelabs/AmazonTest/target/surefire-reports/old/Amazon company/toc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AmazonSaucelabs/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../AmazonSaucelabs/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AmazonSaucelabs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AmazonSaucelabs/.idea/workspace.xml" />
     </list>
     <ignored path="AllMethod.iws" />
@@ -766,7 +760,13 @@
       <option name="project" value="LOCAL" />
       <updated>1428990243954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1428990284720</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1428990284720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
